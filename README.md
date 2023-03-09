@@ -24,6 +24,8 @@ go through the entire process of creating a local Git repository, creating an
 initial commit and pushing that work to a remote repo stored on
 [GitHub][github].
 
+hello world
+
 ## Getting Started
 
 To start work on this lab, you will first need to fork this assignment and clone
